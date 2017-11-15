@@ -1,4 +1,9 @@
-my_hash = {"Car" => "BRZ", "color" => "silver"}
+def my_hash
+Me = {"Name" => "Connor", "Gender" => "Male"}
+
+
+end
+
 
 def shipping_manifest
   #set a variable called `shipping_manifest`, equal to a hash
