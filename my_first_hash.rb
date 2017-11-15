@@ -1,9 +1,4 @@
-def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
-end
-
+my_hash = "Car" => "BRZ", "color" => "silver"
 
 def shipping_manifest
   #set a variable called `shipping_manifest`, equal to a hash
